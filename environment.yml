@@ -1,0 +1,13 @@
+name: payador
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - google-generativeai==0.8
+      - jsonpickle==4.0
+      - gradio==5.*
+      - python-dotenv==1.0.1
+      - replicate==1.0.4
