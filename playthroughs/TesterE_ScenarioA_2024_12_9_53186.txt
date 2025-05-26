@@ -1,0 +1,744 @@
+📄 Original file: 'TesterE_ScenarioA_2024_12_9_53186.json'
+
+🙋‍♀️ Player: TesterE
+🖼️ Scenario: A
+#️⃣ Number of turns to complete the scenario: 24
+⏰ Elapsed time : 17 minutes y 9 seconds
+	⏰ Elapsed time since the player sent the first message: 14 minutes y 9 seconds
+	⏰ Shortest turn: 8.00 seconds
+	⏰ Average turn: 42.88 seconds
+	⏰ Longest turn: 189.00 seconds
+
+======= TURN 1 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo gris>, <Un martillo verde>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+"Estás en el taller de pintura de tu madre, Laura.  El olor a óleo y trementina llena el aire.  Ves un martillo gris grande y un pequeño martillo verde de juguete.  Laura está aquí también.  Puedes ir a la cocina.  Buscas a Hojita, tu mascota.🎯  Lleva la tortuga a la cocina. "
+
+👉 Player utterance 👈
+"Laura precisas algo de la cocina? pues no encuentro a la tortuga"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 2 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo gris>, <Un martillo verde>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+" Laura está en la cocina. No hay ninguna tortuga a la vista en el Taller de Pintura.  "
+
+👉 Player utterance 👈
+"me dirijo hacia la cocina"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Cocina>
+
+======= TURN 3 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>
+Desde <Cocina> hay pasajes bloqueados hacia: <Jardín> bloqueado por <Candado>
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: None
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Candado>: Un candado fuerte que tiene grabado un escudo de armas. Parece que no puede ser abierto con las manos
+
+📖 Automated GM 📖
+"Estás en la cocina.  Es una cocina normal, bastante iluminada.  Hay una puerta que lleva al taller de pintura.  La puerta al jardín está cerrada con un candado, un candado con un escudo grabado.  No tienes nada en tu inventario. No ves nada ni a nadie más."
+
+👉 Player utterance 👈
+"miro el candado cómo es, estará la llave en el armario de la cocina?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 4 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>
+Desde <Cocina> hay pasajes bloqueados hacia: <Jardín> bloqueado por <Candado>
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: None
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Candado>: Un candado fuerte que tiene grabado un escudo de armas. Parece que no puede ser abierto con las manos
+
+📖 Automated GM 📖
+" Estás mirando el candado. Es un candado fuerte con un escudo de armas grabado. No parece que pueda abrirse con las manos.  No ves una llave en el armario de la cocina.  ¿Te gustaría buscar en algún otro sitio? "
+
+👉 Player utterance 👈
+"vuelvo al taller de pintura, miro los lienzos de mi madre, quizá algun dia llegue a pintar como ella."
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Taller de pintura>
+
+======= TURN 5 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo gris>, <Un martillo verde>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+"Estás en el taller de pintura.  El olor a pintura sigue fuerte.  Ves el martillo gris y el martillo verde de juguete en el suelo. Tu madre, Laura, está aquí.  Puedes ir a la cocina.  ¿Sigues buscando a Hojita?"
+
+👉 Player utterance 👈
+"Laura sabes dónde esta la tortuga?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 6 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo gris>, <Un martillo verde>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+" Laura, en este momento, no parece tener a la tortuga.  Puedes preguntarle directamente o buscar en otros lugares.  ¿Necesitas que te ayude a buscar algo más? "
+
+👉 Player utterance 👈
+"Laura me ayudas a encontrar a la tortuga?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 7 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo gris>, <Un martillo verde>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+" Laura está aquí en el taller de pintura.  ¿Quieres que te ayude a buscar a Hojita?  Dime qué quieres hacer. "
+
+👉 Player utterance 👈
+"Quiero encontrar a Hojita"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 8 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo gris>, <Un martillo verde>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+" No pasa nada...  Para encontrar a Hojita, necesitas más información o pistas.  ¿Qué quieres hacer?  Puedes examinar los objetos del taller, hablar con Laura, o intentar ir a la cocina. "
+
+👉 Player utterance 👈
+"miro el martillo verde, no será hojita?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 9 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo gris>, <Un martillo verde>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+" Miras el martillo verde. Es pequeño, de plástico, y claramente un juguete.  No parece tener ninguna relación con 'Hojita'.  ¿Te gustaría intentar algo más? "
+
+👉 Player utterance 👈
+"agarro el otro martillo y me dirijo a la cocina"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Un martillo verde> now is in <Inventory>
+- Blocked passages now available: None
+- Your location changed: <Cocina>
+
+======= TURN 10 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>
+Desde <Cocina> hay pasajes bloqueados hacia: <Jardín> bloqueado por <Candado>
+El jugador tiene los siguientes objetos en su inventario: <Un martillo verde>
+El jugador puede ver los siguientes objetos: None
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Candado>: Un candado fuerte que tiene grabado un escudo de armas. Parece que no puede ser abierto con las manos
+
+📖 Automated GM 📖
+"Estás en la cocina.  La luz del sol entra por las ventanas.  Tienes un martillo verde en tu inventario. La puerta del taller de pintura está abierta. La puerta al jardín sigue cerrada con el candado."
+
+👉 Player utterance 👈
+"vuelvo al taller, agarro el martillo gris y me dirijo a la cocina"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <martillo gris> now is in <Inventory>
+- Blocked passages now available: None
+- Your location changed: <Taller de pintura>
+
+======= TURN 11 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: <Un martillo verde>
+El jugador puede ver los siguientes objetos: <Un martillo gris>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+"Estás en el taller de pintura.  El olor a pintura aún persiste.  Ves el martillo gris en el suelo.  Tu madre, Laura, está aquí.  Tienes el martillo verde en tu mano. Puedes ir a la cocina. ¿Sigues buscando a Hojita?"
+
+👉 Player utterance 👈
+"estoy en la cocina, qué tengo?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Cocina>
+
+======= TURN 12 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>
+Desde <Cocina> hay pasajes bloqueados hacia: <Jardín> bloqueado por <Candado>
+El jugador tiene los siguientes objetos en su inventario: <Un martillo verde>
+El jugador puede ver los siguientes objetos: None
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Candado>: Un candado fuerte que tiene grabado un escudo de armas. Parece que no puede ser abierto con las manos
+
+📖 Automated GM 📖
+"Estás en la cocina.  La luz del sol entra por las ventanas.  Tienes el martillo verde. La puerta del taller de pintura está allí. La puerta del jardín sigue cerrada con el candado."
+
+👉 Player utterance 👈
+"vuelvo al taller de pintura, dejo el martillo"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Un martillo verde> now is in <Taller de pintura>
+- Blocked passages now available: None
+- Your location changed: <Taller de pintura>
+
+======= TURN 13 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo gris>
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+"Estás en el taller de pintura.  El olor a pintura aún está presente.  Ves el martillo gris en el suelo. Tu madre, Laura, está aquí. Puedes ir a la cocina.  ¿Sigues buscando a Hojita?"
+
+👉 Player utterance 👈
+"tomo el martillo gris"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Un martillo gris> now is in <Inventory>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 14 =======
+
+🌐 World state 🌐
+El jugador está en <Taller de pintura>
+Desde <Taller de pintura> el jugador puede ir a: <Cocina>
+Desde <Taller de pintura> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: <Un martillo gris>
+El jugador puede ver los siguientes objetos: None
+El jugador puede ver a los siguientes personajes: <Laura>
+
+Aquí hay una descripción de cada componente.
+<Taller de pintura>: Este es el lugar en el que está el jugador. Es el taller de pintura que la madre de Emma tiene en su casa.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+- <Laura>: Una mujer de unos 45 años de edad. Es la madre de Emma. Es una artista que pinta al óleo.Este personaje tiene los siguientes objetos en su inventario: <Llave>
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Llave>: Una llave para abrir un candado. Es dorada. Tiene grabada la imagen de un extraño escudo de armas
+
+📖 Automated GM 📖
+" Tomaste el martillo gris. Es bastante pesado.  Ahora lo llevas en tu inventario. "
+
+👉 Player utterance 👈
+"voy a la cocina"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Cocina>
+
+======= TURN 15 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>
+Desde <Cocina> hay pasajes bloqueados hacia: <Jardín> bloqueado por <Candado>
+El jugador tiene los siguientes objetos en su inventario: <Un martillo gris>
+El jugador puede ver los siguientes objetos: <Un martillo verde>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Candado>: Un candado fuerte que tiene grabado un escudo de armas. Parece que no puede ser abierto con las manos
+
+📖 Automated GM 📖
+"Estás en la cocina.  La luz del sol entra por las ventanas.  Tienes un martillo gris en tu inventario; un martillo verde está sobre la mesa. La puerta al taller de pintura está ahí.  La puerta del jardín permanece cerrada con el candado."
+
+👉 Player utterance 👈
+"rompo un vidrio que me dirije al patio"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: <Jardín>
+- Your location changed: None
+
+======= TURN 16 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>, <Jardín>
+Desde <Cocina> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: <Un martillo gris>
+El jugador puede ver los siguientes objetos: <Un martillo verde>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+
+📖 Automated GM 📖
+" Rompes el vidrio con el martillo gris.  Ahora puedes acceder al jardín. "
+
+👉 Player utterance 👈
+"me dirijo al jardin"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Jardín>
+
+======= TURN 17 =======
+
+🌐 World state 🌐
+El jugador está en <Jardín>
+Desde <Jardín> el jugador puede ir a: <Cocina>
+Desde <Jardín> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: <Un martillo gris>
+El jugador puede ver los siguientes objetos: <Tortuga>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Jardín>: Este es el lugar en el que está el jugador. El jardín de la casa. Es relativamente chico, de unos 5 metros cuadrados.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+
+📖 Automated GM 📖
+"Estás en el jardín, un espacio pequeño.  Ves a Hojita, la tortuga.  Llevas un martillo gris.  Puedes ir a la cocina."
+
+👉 Player utterance 👈
+"dejo el martillo "
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Un martillo gris> now is in <Jardín>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 18 =======
+
+🌐 World state 🌐
+El jugador está en <Jardín>
+Desde <Jardín> el jugador puede ir a: <Cocina>
+Desde <Jardín> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Tortuga>, <Un martillo gris>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Jardín>: Este es el lugar en el que está el jugador. El jardín de la casa. Es relativamente chico, de unos 5 metros cuadrados.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+
+📖 Automated GM 📖
+" Dejaste el martillo gris en el jardín.  La tortuga, Hojita, sigue ahí. "
+
+👉 Player utterance 👈
+"agarro a Hojita, la miro parece enferma, la llevo a la cocina para tratarla "
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Tortuga> now is in <Cocina>
+- Blocked passages now available: None
+- Your location changed: <Cocina>
+
+======= TURN 19 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>, <Jardín>
+Desde <Cocina> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo verde>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+
+📖 Automated GM 📖
+"Estás en la cocina.  El sol ilumina la habitación.  Un martillo verde yace sobre la mesa.  La puerta al taller de pintura está ahí,  y la puerta del jardín sigue cerrada con el candado.  No hay nadie más."
+
+👉 Player utterance 👈
+"vuelvo al patio"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Jardín>
+
+======= TURN 20 =======
+
+🌐 World state 🌐
+El jugador está en <Jardín>
+Desde <Jardín> el jugador puede ir a: <Cocina>
+Desde <Jardín> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Tortuga>, <Un martillo gris>, <Tortuga>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Jardín>: Este es el lugar en el que está el jugador. El jardín de la casa. Es relativamente chico, de unos 5 metros cuadrados.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+
+📖 Automated GM 📖
+"Estás en el jardín.  Ves a Hojita, la tortuga,  y un martillo gris. Puedes ir a la cocina."
+
+👉 Player utterance 👈
+"tomo a hojita y la guardo"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Tortuga> now is in <Inventory>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 21 =======
+
+🌐 World state 🌐
+El jugador está en <Jardín>
+Desde <Jardín> el jugador puede ir a: <Cocina>
+Desde <Jardín> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: <Tortuga>
+El jugador puede ver los siguientes objetos: <Un martillo gris>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Jardín>: Este es el lugar en el que está el jugador. El jardín de la casa. Es relativamente chico, de unos 5 metros cuadrados.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo gris>: Un martillo gris grande que puede ser usado para romper cosas. Es muy pesado
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+
+📖 Automated GM 📖
+" Tomaste a Hojita (la tortuga) y la guardaste en tu inventario. Ahora la tienes contigo.  "
+
+👉 Player utterance 👈
+"vuelvo a la cocina"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Cocina>
+
+======= TURN 22 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>, <Jardín>
+Desde <Cocina> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: <Tortuga>
+El jugador puede ver los siguientes objetos: <Un martillo verde>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+
+📖 Automated GM 📖
+"Estás en la cocina.  El sol entra por las ventanas.  Sobre la mesa ves un martillo verde.  Tienes a Hojita, tu tortuga, en tu inventario. La puerta al taller de pintura está allí, y la puerta al jardín sigue cerrada con el candado."
+
+👉 Player utterance 👈
+"dejo a hojita en la cocina"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Hojita> now is in <Cocina>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 23 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>, <Jardín>
+Desde <Cocina> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: <Tortuga>
+El jugador puede ver los siguientes objetos: <Un martillo verde>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+
+📖 Automated GM 📖
+" Dejaste a Hojita en la cocina.  Ya estaba ahí, pero ahora se enfatiza su presencia en este lugar. "
+
+👉 Player utterance 👈
+"dejo a hojita en la mesa de la cocina"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Hojita> now is in <mesa de la cocina>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 24 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>, <Jardín>
+Desde <Cocina> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: <Tortuga>
+El jugador puede ver los siguientes objetos: <Un martillo verde>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+
+📖 Automated GM 📖
+" Dejaste a Hojita (tu tortuga) en la mesa de la cocina.  "
+
+👉 Player utterance 👈
+"dejo a la tortuga en la cocina"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Tortuga> now is in <Cocina>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 25 =======
+
+🌐 World state 🌐
+El jugador está en <Cocina>
+Desde <Cocina> el jugador puede ir a: <Taller de pintura>, <Jardín>
+Desde <Cocina> hay pasajes bloqueados hacia: None
+El jugador tiene los siguientes objetos en su inventario: None
+El jugador puede ver los siguientes objetos: <Un martillo verde>, <Tortuga>
+El jugador puede ver a los siguientes personajes: None
+
+Aquí hay una descripción de cada componente.
+<Cocina>: Este es el lugar en el que está el jugador. Es la cocina de la casa. No es enorme, pero tampoco es la cocina más chiquita del mundo. Por las ventanas entra mucha luz.
+Personajes:
+- <Jugador>: El jugador está actuando como <Emma>. Una adolescente de estatura promedio. Está buscando a su mascota 'Hojita'.
+Objetos:
+- <Un martillo verde>: Un pequeño martillo verde. Es solamente un juguete y no se puede romper nada con él
+- <Tortuga>: Una tortuga pequeña. La mascota de Emma. Emma la llama 'Hojita'
+
+📖 Automated GM 📖
+" Dejaste a Hojita, la tortuga, en la cocina.  Ya está en un lugar seguro. 🎯¡Completaste el objetivo!"

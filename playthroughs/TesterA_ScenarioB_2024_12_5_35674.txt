@@ -1,0 +1,242 @@
+📄 Original file: 'TesterA_ScenarioB_2024_12_5_35674.json'
+
+🙋‍♀️ Player: TesterA
+🖼️ Scenario: B
+#️⃣ Number of turns to complete the scenario: 7
+⏰ Elapsed time : 8 minutes y 19 seconds
+	⏰ Elapsed time since the player sent the first message: 5 minutes y 19 seconds
+	⏰ Shortest turn: 17.00 seconds
+	⏰ Average turn: 71.29 seconds
+	⏰ Longest turn: 148.00 seconds
+
+======= TURN 1 =======
+
+🌐 World state 🌐
+The player is in <Clearing in the woods>
+From <Clearing in the woods> the player can access: None
+From <Clearing in the woods> there are blocked passages to: <Silent zone> blocked by <Firewall>
+The player has the following objects in the inventory: <Guitar>
+The player can see the following objects: <Writings>, <Pond>
+The player can see the following characters: None
+
+Here is a description of each component.
+<Clearing in the woods>: This is the player's location. A clearing in a eucalyptus forest near the Uruguay River. You can hear the sound of the animals that live in the trees of this forest..
+Characters:
+- <Player>: The player is acting as <Venancio>. A Uruguayan gaucho in his 40s. He belongs to the Artigas army. He has the magical power to summon a giant wave of water with which he can put out fires or moisten the ground..
+Objects:
+- <Writings>: There is something written on the wall.. It says 'You have to trust in the powers that have been given to you.'
+- <Pond>: A pond full of crystal clear water. The water is so clear that it works like a mirror
+- <Guitar>: A classic guitar with 6 strings. It sounds great
+- <Firewall>: The flames are very hot. It's 3 metres high. It is impossible to cross them, neither walking, nor running, nor jumping.
+
+📖 Automated GM 📖
+"You are Venancio, a gaucho fighting for Artigas.  You stand in a sun-dappled clearing in a eucalyptus forest near the Uruguay River.  The sounds of the forest surround you.  A pond reflects the sky like a mirror beside some strange writings on a nearby wall – they say, 'You have to trust in the powers that have been given to you.' A wall of fire blocks your path to the Silent Zone. Your trusty guitar rests in your hands.🎯  Venancio needs to find José Artigas. "
+
+👉 Player utterance 👈
+"Where can I go from here?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 2 =======
+
+🌐 World state 🌐
+The player is in <Clearing in the woods>
+From <Clearing in the woods> the player can access: None
+From <Clearing in the woods> there are blocked passages to: <Silent zone> blocked by <Firewall>
+The player has the following objects in the inventory: <Guitar>
+The player can see the following objects: <Writings>, <Pond>
+The player can see the following characters: None
+
+Here is a description of each component.
+<Clearing in the woods>: This is the player's location. A clearing in a eucalyptus forest near the Uruguay River. You can hear the sound of the animals that live in the trees of this forest..
+Characters:
+- <Player>: The player is acting as <Venancio>. A Uruguayan gaucho in his 40s. He belongs to the Artigas army. He has the magical power to summon a giant wave of water with which he can put out fires or moisten the ground..
+Objects:
+- <Writings>: There is something written on the wall.. It says 'You have to trust in the powers that have been given to you.'
+- <Pond>: A pond full of crystal clear water. The water is so clear that it works like a mirror
+- <Guitar>: A classic guitar with 6 strings. It sounds great
+- <Firewall>: The flames are very hot. It's 3 metres high. It is impossible to cross them, neither walking, nor running, nor jumping.
+
+📖 Automated GM 📖
+"You are currently in a clearing in the woods.  From here, the only place you can see a path to is the Silent Zone, but it's blocked by a 3-meter-high firewall.  The writings on the wall say 'You have to trust in the powers that have been given to you.' You also see a pond and have your guitar."
+
+👉 Player utterance 👈
+"What powers do I have?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 3 =======
+
+🌐 World state 🌐
+The player is in <Clearing in the woods>
+From <Clearing in the woods> the player can access: None
+From <Clearing in the woods> there are blocked passages to: <Silent zone> blocked by <Firewall>
+The player has the following objects in the inventory: <Guitar>
+The player can see the following objects: <Writings>, <Pond>
+The player can see the following characters: None
+
+Here is a description of each component.
+<Clearing in the woods>: This is the player's location. A clearing in a eucalyptus forest near the Uruguay River. You can hear the sound of the animals that live in the trees of this forest..
+Characters:
+- <Player>: The player is acting as <Venancio>. A Uruguayan gaucho in his 40s. He belongs to the Artigas army. He has the magical power to summon a giant wave of water with which he can put out fires or moisten the ground..
+Objects:
+- <Writings>: There is something written on the wall.. It says 'You have to trust in the powers that have been given to you.'
+- <Pond>: A pond full of crystal clear water. The water is so clear that it works like a mirror
+- <Guitar>: A classic guitar with 6 strings. It sounds great
+- <Firewall>: The flames are very hot. It's 3 metres high. It is impossible to cross them, neither walking, nor running, nor jumping.
+
+📖 Automated GM 📖
+"You, Venancio, possess the magical ability to summon a giant wave of water to extinguish fires or moisten the earth.  The writings on the wall confirm this. "
+
+👉 Player utterance 👈
+"I summon a giant wave of water and point it towards the firewall"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: <Silent zone>
+- Your location changed: None
+
+======= TURN 4 =======
+
+🌐 World state 🌐
+The player is in <Clearing in the woods>
+From <Clearing in the woods> the player can access: <Silent zone>
+From <Clearing in the woods> there are blocked passages to: None
+The player has the following objects in the inventory: <Guitar>
+The player can see the following objects: <Writings>, <Pond>
+The player can see the following characters: None
+
+Here is a description of each component.
+<Clearing in the woods>: This is the player's location. A clearing in a eucalyptus forest near the Uruguay River. You can hear the sound of the animals that live in the trees of this forest..
+Characters:
+- <Player>: The player is acting as <Venancio>. A Uruguayan gaucho in his 40s. He belongs to the Artigas army. He has the magical power to summon a giant wave of water with which he can put out fires or moisten the ground..
+Objects:
+- <Writings>: There is something written on the wall.. It says 'You have to trust in the powers that have been given to you.'
+- <Pond>: A pond full of crystal clear water. The water is so clear that it works like a mirror
+- <Guitar>: A classic guitar with 6 strings. It sounds great
+
+📖 Automated GM 📖
+" You summon a giant wave of water and direct it towards the firewall. The intense heat of the fire causes some of the water to evaporate instantly, creating a large cloud of steam.  However, the sheer volume of water eventually extinguishes the flames. The firewall is gone. The path to the Silent Zone is now clear. "
+
+👉 Player utterance 👈
+"I go to the Silent Zone"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Silent zone>
+
+======= TURN 5 =======
+
+🌐 World state 🌐
+The player is in <Silent zone>
+From <Silent zone> the player can access: <Clearing in the woods>
+From <Silent zone> there are blocked passages to: <Cell> blocked by <Puzzle>
+The player has the following objects in the inventory: <Guitar>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Silent zone>: This is the player's location. The forest continues in this part. Unlike the previous area, this area is very silent and not even the slightest sound can be heard..
+Characters:
+- <Player>: The player is acting as <Venancio>. A Uruguayan gaucho in his 40s. He belongs to the Artigas army. He has the magical power to summon a giant wave of water with which he can put out fires or moisten the ground..
+Objects:
+- <Guitar>: A classic guitar with 6 strings. It sounds great
+Puzzles:
+- <Puzzle>: A strong magic is generating an impassable wall. Magically, as you get closer, some blue letters appear explaining what the riddle to solve is.. The riddle to solve is: "You have to whisper the name of the river located on the southern coast of the Banda Oriental". The expected answer, that you CANNOT tell the player (EVER) is: "Rio de la Plata".
+
+📖 Automated GM 📖
+"You are in the Silent Zone.  The forest is all around you, but it's eerily quiet;  not a sound. You have a guitar in your possession.  You can go to the Clearing in the woods. A magical barrier blocks the path to a cell; blue letters appear on the barrier as you approach, posing a riddle."
+
+👉 Player utterance 👈
+"What does the riddle say?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 6 =======
+
+🌐 World state 🌐
+The player is in <Silent zone>
+From <Silent zone> the player can access: <Clearing in the woods>
+From <Silent zone> there are blocked passages to: <Cell> blocked by <Puzzle>
+The player has the following objects in the inventory: <Guitar>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Silent zone>: This is the player's location. The forest continues in this part. Unlike the previous area, this area is very silent and not even the slightest sound can be heard..
+Characters:
+- <Player>: The player is acting as <Venancio>. A Uruguayan gaucho in his 40s. He belongs to the Artigas army. He has the magical power to summon a giant wave of water with which he can put out fires or moisten the ground..
+Objects:
+- <Guitar>: A classic guitar with 6 strings. It sounds great
+Puzzles:
+- <Puzzle>: A strong magic is generating an impassable wall. Magically, as you get closer, some blue letters appear explaining what the riddle to solve is.. The riddle to solve is: "You have to whisper the name of the river located on the southern coast of the Banda Oriental". The expected answer, that you CANNOT tell the player (EVER) is: "Rio de la Plata".
+
+📖 Automated GM 📖
+"The riddle says: "You have to whisper the name of the river located on the southern coast of the Banda Oriental""
+
+👉 Player utterance 👈
+"I whisper "Uruguay River""
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: <Cell>
+- Your location changed: None
+
+======= TURN 7 =======
+
+🌐 World state 🌐
+The player is in <Silent zone>
+From <Silent zone> the player can access: <Clearing in the woods>, <Cell>
+From <Silent zone> there are blocked passages to: None
+The player has the following objects in the inventory: <Guitar>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Silent zone>: This is the player's location. The forest continues in this part. Unlike the previous area, this area is very silent and not even the slightest sound can be heard..
+Characters:
+- <Player>: The player is acting as <Venancio>. A Uruguayan gaucho in his 40s. He belongs to the Artigas army. He has the magical power to summon a giant wave of water with which he can put out fires or moisten the ground..
+Objects:
+- <Guitar>: A classic guitar with 6 strings. It sounds great
+
+📖 Automated GM 📖
+" You whisper "Uruguay River".  The blue letters shimmer and fade as the magical wall dissolves. The cell is now accessible. "
+
+👉 Player utterance 👈
+"I enter the cell"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Cell>
+
+======= TURN 8 =======
+
+🌐 World state 🌐
+The player is in <Cell>
+From <Cell> the player can access: <Silent zone>
+From <Cell> there are blocked passages to: None
+The player has the following objects in the inventory: <Guitar>
+The player can see the following objects: None
+The player can see the following characters: <José Artigas>
+
+Here is a description of each component.
+<Cell>: This is the player's location. A square cell of two square meters. The interior is full of plants that grew outside.
+Characters:
+- <Player>: The player is acting as <Venancio>. A Uruguayan gaucho in his 40s. He belongs to the Artigas army. He has the magical power to summon a giant wave of water with which he can put out fires or moisten the ground..
+- <José Artigas>: Uruguay's national hero. He is very weak after being locked up for so long..
+Objects:
+- <Guitar>: A classic guitar with 6 strings. It sounds great
+
+📖 Automated GM 📖
+"You are Venancio, in a small, two-meter square cell.  Thick plants have grown inside, pushing through the walls.  José Artigas, weak and frail, is here with you. You have your guitar.  The only exit leads to a place called the Silent Zone.🎯You have completed your quest!"

@@ -1,0 +1,545 @@
+📄 Original file: 'TesterA_ScenarioA_2024_12_5_34902.json'
+
+🙋‍♀️ Player: TesterA
+🖼️ Scenario: A
+#️⃣ Number of turns to complete the scenario: 17
+⏰ Elapsed time : 10 minutes y 49 seconds
+	⏰ Elapsed time since the player sent the first message: 7 minutes y 49 seconds
+	⏰ Shortest turn: 7.00 seconds
+	⏰ Average turn: 38.18 seconds
+	⏰ Longest turn: 201.00 seconds
+
+======= TURN 1 =======
+
+🌐 World state 🌐
+The player is in <Art studio>
+From <Art studio> the player can access: <Kitchen>
+From <Art studio> there are blocked passages to: None
+The player has the following objects in the inventory: None
+The player can see the following objects: <A grey hammer>, <A green hammer>
+The player can see the following characters: <Laura>
+
+Here is a description of each component.
+<Art studio>: This is the player's location. This is the art studio that Emma's mom has in the house.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+- <Laura>: A woman in her 40s. She is Emma's mom. She is an artist, and loves oil painting. This character has the following items: <Key>
+Objects:
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <Key>: A key to open a lock. It is golden. There is a strange coat of arms engraved on it
+
+📖 Automated GM 📖
+"You are Emma, a teenager searching for your lost pet, Hojita.  You're in your mom's art studio, a space overflowing with the smell of oil paints.  Laura, your mom, is here too.  A large, heavy grey hammer and a small, green toy hammer sit on a nearby table.🎯  Leave the turtle in the kitchen. "
+
+👉 Player utterance 👈
+"I want to ask my mom if she has seen my pet"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 2 =======
+
+🌐 World state 🌐
+The player is in <Art studio>
+From <Art studio> the player can access: <Kitchen>
+From <Art studio> there are blocked passages to: None
+The player has the following objects in the inventory: None
+The player can see the following objects: <A grey hammer>, <A green hammer>
+The player can see the following characters: <Laura>
+
+Here is a description of each component.
+<Art studio>: This is the player's location. This is the art studio that Emma's mom has in the house.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+- <Laura>: A woman in her 40s. She is Emma's mom. She is an artist, and loves oil painting. This character has the following items: <Key>
+Objects:
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <Key>: A key to open a lock. It is golden. There is a strange coat of arms engraved on it
+
+📖 Automated GM 📖
+" You ask your mom, Laura, if she has seen your pet, Hojita.  She doesn't seem to know where Hojita is. "
+
+👉 Player utterance 👈
+"Is Hojita, my pet, a turtle?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 3 =======
+
+🌐 World state 🌐
+The player is in <Art studio>
+From <Art studio> the player can access: <Kitchen>
+From <Art studio> there are blocked passages to: None
+The player has the following objects in the inventory: None
+The player can see the following objects: <A grey hammer>, <A green hammer>
+The player can see the following characters: <Laura>
+
+Here is a description of each component.
+<Art studio>: This is the player's location. This is the art studio that Emma's mom has in the house.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+- <Laura>: A woman in her 40s. She is Emma's mom. She is an artist, and loves oil painting. This character has the following items: <Key>
+Objects:
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <Key>: A key to open a lock. It is golden. There is a strange coat of arms engraved on it
+
+📖 Automated GM 📖
+" Hojita is not mentioned in the current world description.  Therefore, I cannot answer your question about whether Hojita is a turtle. "
+
+👉 Player utterance 👈
+"I want to pick the green toy hammer"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <A green hammer> now is in <Inventory>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 4 =======
+
+🌐 World state 🌐
+The player is in <Art studio>
+From <Art studio> the player can access: <Kitchen>
+From <Art studio> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>
+The player can see the following objects: <A grey hammer>
+The player can see the following characters: <Laura>
+
+Here is a description of each component.
+<Art studio>: This is the player's location. This is the art studio that Emma's mom has in the house.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+- <Laura>: A woman in her 40s. She is Emma's mom. She is an artist, and loves oil painting. This character has the following items: <Key>
+Objects:
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <Key>: A key to open a lock. It is golden. There is a strange coat of arms engraved on it
+
+📖 Automated GM 📖
+"You pick up the small green toy hammer.  It's quite light."
+
+👉 Player utterance 👈
+"Where can I go from the art studio?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 5 =======
+
+🌐 World state 🌐
+The player is in <Art studio>
+From <Art studio> the player can access: <Kitchen>
+From <Art studio> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>
+The player can see the following objects: <A grey hammer>
+The player can see the following characters: <Laura>
+
+Here is a description of each component.
+<Art studio>: This is the player's location. This is the art studio that Emma's mom has in the house.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+- <Laura>: A woman in her 40s. She is Emma's mom. She is an artist, and loves oil painting. This character has the following items: <Key>
+Objects:
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <Key>: A key to open a lock. It is golden. There is a strange coat of arms engraved on it
+
+📖 Automated GM 📖
+"You are in the art studio. From here, you can go to the Kitchen.  "
+
+👉 Player utterance 👈
+"I want to ask my mom if she has seen a turtle"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 6 =======
+
+🌐 World state 🌐
+The player is in <Art studio>
+From <Art studio> the player can access: <Kitchen>
+From <Art studio> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>
+The player can see the following objects: <A grey hammer>
+The player can see the following characters: <Laura>
+
+Here is a description of each component.
+<Art studio>: This is the player's location. This is the art studio that Emma's mom has in the house.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+- <Laura>: A woman in her 40s. She is Emma's mom. She is an artist, and loves oil painting. This character has the following items: <Key>
+Objects:
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <Key>: A key to open a lock. It is golden. There is a strange coat of arms engraved on it
+
+📖 Automated GM 📖
+" You ask your mom, Laura, if she has seen a turtle.  She doesn't seem to know anything about a turtle. "
+
+👉 Player utterance 👈
+"I go to the kitchen"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Kitchen>
+
+======= TURN 7 =======
+
+🌐 World state 🌐
+The player is in <Kitchen>
+From <Kitchen> the player can access: <Art studio>
+From <Kitchen> there are blocked passages to: <Garden> blocked by <Lock>
+The player has the following objects in the inventory: <A green hammer>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Kitchen>: This is the player's location. The kitchen of the house. It's not huge, but it's not the smallest kitchen in the world either.. A lot of light comes in through the windows.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <Lock>: A strong lock with a coat of arms engraved on it. It seems that it cannot be opened with your bare hands
+
+📖 Automated GM 📖
+"You are in your kitchen.  Sunlight streams in through the windows.  It's a medium-sized kitchen. You have a small green toy hammer in your inventory.  The only other thing you can see is a door leading to the art studio.  A locked garden door, with a fancy coat of arms on the lock, blocks your way outside."
+
+👉 Player utterance 👈
+"I go back to the art studio"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Art studio>
+
+======= TURN 8 =======
+
+🌐 World state 🌐
+The player is in <Art studio>
+From <Art studio> the player can access: <Kitchen>
+From <Art studio> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>
+The player can see the following objects: <A grey hammer>
+The player can see the following characters: <Laura>
+
+Here is a description of each component.
+<Art studio>: This is the player's location. This is the art studio that Emma's mom has in the house.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+- <Laura>: A woman in her 40s. She is Emma's mom. She is an artist, and loves oil painting. This character has the following items: <Key>
+Objects:
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <Key>: A key to open a lock. It is golden. There is a strange coat of arms engraved on it
+
+📖 Automated GM 📖
+"You're back in your mom's art studio.  The smell of oil paint is strong. Your mom, Laura, is here.  A large, grey hammer is on the table. You still have the small, green toy hammer.  The kitchen is the only place you can go from here."
+
+👉 Player utterance 👈
+"I pick the grey hammer and go to the kitchen"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <A grey hammer> now is in <Inventory>
+- Blocked passages now available: None
+- Your location changed: <Kitchen>
+
+======= TURN 9 =======
+
+🌐 World state 🌐
+The player is in <Kitchen>
+From <Kitchen> the player can access: <Art studio>
+From <Kitchen> there are blocked passages to: <Garden> blocked by <Lock>
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Kitchen>: This is the player's location. The kitchen of the house. It's not huge, but it's not the smallest kitchen in the world either.. A lot of light comes in through the windows.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <Lock>: A strong lock with a coat of arms engraved on it. It seems that it cannot be opened with your bare hands
+
+📖 Automated GM 📖
+"You're back in your kitchen.  Sunlight fills the room. You have a green toy hammer and a heavy grey hammer.  The door to the art studio is open. The garden door remains locked."
+
+👉 Player utterance 👈
+"I force the lock to the garden with the grey hammer"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: <Garden>
+- Your location changed: None
+
+======= TURN 10 =======
+
+🌐 World state 🌐
+The player is in <Kitchen>
+From <Kitchen> the player can access: <Art studio>, <Garden>
+From <Kitchen> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Kitchen>: This is the player's location. The kitchen of the house. It's not huge, but it's not the smallest kitchen in the world either.. A lot of light comes in through the windows.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+
+📖 Automated GM 📖
+" You use the grey hammer to break the lock on the garden gate. The garden is now accessible. "
+
+👉 Player utterance 👈
+"I go to the garden"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Garden>
+
+======= TURN 11 =======
+
+🌐 World state 🌐
+The player is in <Garden>
+From <Garden> the player can access: <Kitchen>
+From <Garden> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>
+The player can see the following objects: <Turtle>
+The player can see the following characters: None
+
+Here is a description of each component.
+<Garden>: This is the player's location. The garden of the house. It is relatively small, about 5 square meters..
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <Turtle>: A small turtle. Emma's pet. Emma calls it 'Hojita'
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+
+📖 Automated GM 📖
+"You are in a small garden, about five square meters.  You have a green toy hammer and a very heavy grey hammer in your hands.  A small turtle, Hojita, is in the garden.  You can go to the kitchen from here."
+
+👉 Player utterance 👈
+"I pick the small turtle gently"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Turtle> now is in <Inventory>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 12 =======
+
+🌐 World state 🌐
+The player is in <Garden>
+From <Garden> the player can access: <Kitchen>
+From <Garden> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>, <Turtle>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Garden>: This is the player's location. The garden of the house. It is relatively small, about 5 square meters..
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <Turtle>: A small turtle. Emma's pet. Emma calls it 'Hojita'
+
+📖 Automated GM 📖
+"You gently pick up the small turtle, Hojita, and put it in your inventory.  "
+
+👉 Player utterance 👈
+"I go to the kitchen and leave the turtle there"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Turtle> now is in <Kitchen>
+- Blocked passages now available: None
+- Your location changed: <Kitchen>
+
+======= TURN 13 =======
+
+🌐 World state 🌐
+The player is in <Kitchen>
+From <Kitchen> the player can access: <Art studio>, <Garden>
+From <Kitchen> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Kitchen>: This is the player's location. The kitchen of the house. It's not huge, but it's not the smallest kitchen in the world either.. A lot of light comes in through the windows.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+
+📖 Automated GM 📖
+"You are in your kitchen.  Sunlight streams in. You have a green toy hammer and a heavy grey hammer. The art studio door is there, and the garden door is still locked."
+
+👉 Player utterance 👈
+"Is the turtle in the kitchen or in my inventory?"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 14 =======
+
+🌐 World state 🌐
+The player is in <Kitchen>
+From <Kitchen> the player can access: <Art studio>, <Garden>
+From <Kitchen> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Kitchen>: This is the player's location. The kitchen of the house. It's not huge, but it's not the smallest kitchen in the world either.. A lot of light comes in through the windows.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+
+📖 Automated GM 📖
+"The turtle, Hojita, is not in the kitchen, nor in your inventory.  "
+
+👉 Player utterance 👈
+"I go to the garden again"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Garden>
+
+======= TURN 15 =======
+
+🌐 World state 🌐
+The player is in <Garden>
+From <Garden> the player can access: <Kitchen>
+From <Garden> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>
+The player can see the following objects: <Turtle>
+The player can see the following characters: None
+
+Here is a description of each component.
+<Garden>: This is the player's location. The garden of the house. It is relatively small, about 5 square meters..
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <Turtle>: A small turtle. Emma's pet. Emma calls it 'Hojita'
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+
+📖 Automated GM 📖
+"You're back in the garden.  Hojita the turtle is here. You're holding both hammers—the green toy one and the heavy grey one. The kitchen is the only way out."
+
+👉 Player utterance 👈
+"I pick Hojita"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Turtle> now is in <Inventory>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 16 =======
+
+🌐 World state 🌐
+The player is in <Garden>
+From <Garden> the player can access: <Kitchen>
+From <Garden> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>, <Turtle>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Garden>: This is the player's location. The garden of the house. It is relatively small, about 5 square meters..
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <Turtle>: A small turtle. Emma's pet. Emma calls it 'Hojita'
+
+📖 Automated GM 📖
+"You pick up Hojita the turtle.  "
+
+👉 Player utterance 👈
+"I go to the kitchen"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: None
+- Blocked passages now available: None
+- Your location changed: <Kitchen>
+
+======= TURN 17 =======
+
+🌐 World state 🌐
+The player is in <Kitchen>
+From <Kitchen> the player can access: <Art studio>, <Garden>
+From <Kitchen> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>, <Turtle>
+The player can see the following objects: None
+The player can see the following characters: None
+
+Here is a description of each component.
+<Kitchen>: This is the player's location. The kitchen of the house. It's not huge, but it's not the smallest kitchen in the world either.. A lot of light comes in through the windows.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+- <Turtle>: A small turtle. Emma's pet. Emma calls it 'Hojita'
+
+📖 Automated GM 📖
+"You're in your kitchen.  The sunlight is bright. You have a green toy hammer, a heavy grey hammer, and Hojita the turtle with you.  The art studio door and the locked garden door are both visible."
+
+👉 Player utterance 👈
+"I put Hojita on the floor of the kitchen"
+
+⚙️ Predicted transformations ⚙️
+- Moved object: <Turtle> now is in <Kitchen>
+- Blocked passages now available: None
+- Your location changed: None
+
+======= TURN 18 =======
+
+🌐 World state 🌐
+The player is in <Kitchen>
+From <Kitchen> the player can access: <Art studio>, <Garden>
+From <Kitchen> there are blocked passages to: None
+The player has the following objects in the inventory: <A green hammer>, <A grey hammer>
+The player can see the following objects: <Turtle>
+The player can see the following characters: None
+
+Here is a description of each component.
+<Kitchen>: This is the player's location. The kitchen of the house. It's not huge, but it's not the smallest kitchen in the world either.. A lot of light comes in through the windows.
+Characters:
+- <Player>: The player is acting as <Emma>. A teenager of average height. She is looking for her pet 'Hojita'.
+Objects:
+- <Turtle>: A small turtle. Emma's pet. Emma calls it 'Hojita'
+- <A green hammer>: A small green hammer. It is just a toy and you cannot break anything with it
+- <A grey hammer>: A big grey hammer that can be used to break things. It is so heavy...
+
+📖 Automated GM 📖
+"You put Hojita, the turtle, on the kitchen floor.🎯You have completed your quest!"
