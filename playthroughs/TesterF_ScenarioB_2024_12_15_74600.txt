@@ -3,8 +3,8 @@
 🙋‍♀️ Player: TesterF
 🖼️ Scenario: B
 #️⃣ Number of turns to complete the scenario: 18
-⏰ Elapsed time : 15 minutes y 10 seconds
-	⏰ Elapsed time since the player sent the first message: 13 minutes y 10 seconds
+⏰ Elapsed time : 15 minutes and 10 seconds
+	⏰ Elapsed time since the player sent the first message: 13 minutes and 10 seconds
 	⏰ Shortest turn: 14.00 seconds
 	⏰ Average turn: 50.56 seconds
 	⏰ Longest turn: 114.00 seconds

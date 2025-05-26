@@ -91,8 +91,8 @@ def generate_txt_from_playthrough(playthrough):
     text += f"🙋‍♀️ Player: {playthrough["nickname"]}\n"
     text += f"🖼️ Scenario: {playthrough["world_id"]}\n"
     text += f"#️⃣ Number of turns to complete the scenario: {str(number_of_turns)}\n"
-    text += f"⏰ Elapsed time : {time.localtime(get_elapsed_time("0",str(number_of_turns), playthrough)).tm_min} minutes y {time.localtime(get_elapsed_time("0",str(number_of_turns), playthrough)).tm_sec} seconds\n"
-    text += f"\t⏰ Elapsed time since the player sent the first message: {time.localtime(get_elapsed_time("1",str(number_of_turns), playthrough)).tm_min} minutes y {time.localtime(get_elapsed_time("0",str(number_of_turns), playthrough)).tm_sec} seconds\n"
+    text += f"⏰ Elapsed time : {time.localtime(get_elapsed_time("0",str(number_of_turns), playthrough)).tm_min} minutes and {time.localtime(get_elapsed_time("0",str(number_of_turns), playthrough)).tm_sec} seconds\n"
+    text += f"\t⏰ Elapsed time since the player sent the first message: {time.localtime(get_elapsed_time("1",str(number_of_turns), playthrough)).tm_min} minutes and {time.localtime(get_elapsed_time("0",str(number_of_turns), playthrough)).tm_sec} seconds\n"
     text += f"\t⏰ Shortest turn: {"{:.2f}".format(statistic_summary(get_times_between_turns(playthrough))["min"])} seconds\n"
     text += f"\t⏰ Average turn: {"{:.2f}".format(statistic_summary(get_times_between_turns(playthrough))["mean"])} seconds\n"
     text += f"\t⏰ Longest turn: {"{:.2f}".format(statistic_summary(get_times_between_turns(playthrough))["max"])} seconds\n"
@@ -113,7 +113,7 @@ if __name__ == "__main__":
                 playthrough = json.load(f)
 
             if get_turns_to_complete_objective(playthrough)==0:
-                print(f"Error (file '{playthrough_filename}'): This script only processes playthroughs that finished the scenario")
+                print(f"Error (file '{playthrough_filename}'): This script only processes complete playthroughs.")
             else:
                 playthrough_as_text = generate_txt_from_playthrough(playthrough)
 
