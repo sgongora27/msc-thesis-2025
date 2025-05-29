@@ -380,7 +380,7 @@ class World:
   def update (self, updates: str) -> None:
     """Does the changes in the world according to the output of the language model.
 
-    The possible changes considered are:
+    The considered transformations are:
       - an object was moved
       - a location is now reachable
       - the position of the player changed.

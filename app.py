@@ -10,7 +10,7 @@ import example_worlds
 from models import get_llm
 from prompts import prompt_narrate_current_scene, prompt_world_update, prompt_describe_objective
 
-PATH_GAMELOGS = 'logs'
+PATH_GAMELOGS = 'playthroughs/raw'
 
 # config
 config = configparser.ConfigParser()
