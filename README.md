@@ -3,7 +3,7 @@
 This repository compiles the resources developed as part of my Master’s thesis.
 The resources are as follows:
 - Three tests to evaluate open-world gamemastering models. They are available in the [GitHub repository](https://github.com/sgongora27/skill-check-GM-tests) associated with the “[Skill check: Some considerations on the evaluation of gamemastering models for role-playing games](https://link.springer.com/chapter/10.1007/978-3-031-49065-1_27)” paper.
-- The latest version of the PAYADOR system, originally introduced in the ICCC24 paper “[PAYADOR: A Minimalist Approach to Grounding Language Models on Structured Data for Interactive Storytelling and Role-playing Games](https://computationalcreativity.net/iccc24/papers/ICCC24_paper_152.pdf)”. It is available in the root of this repository.
+- The latest version of the PAYADOR system, originally introduced in the ICCC24 paper “[PAYADOR: A Minimalist Approach to Grounding Language Models on Structured Data for Interactive Storytelling and Role-playing Games](https://computationalcreativity.net/iccc24/papers/ICCC24_paper_152.pdf)”. It is available in the root of this repository, and instructions to run it are included in the next section of this readme.
 - Playthroughs from the evaluation process. They are available in the “playthroughs” directory.
 
 
