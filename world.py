@@ -381,9 +381,9 @@ class World:
     """Does the changes in the world according to the output of the language model.
 
     The considered transformations are:
-      - an object was moved
+      - an item has been moved
       - a location is now reachable
-      - the position of the player changed.
+      - the position of the player has changed.
     """
     self.parse_moved_objects(updates)
     self.parse_blocked_passages(updates)
