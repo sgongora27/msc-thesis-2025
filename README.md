@@ -58,3 +58,34 @@ To start the web app, just run
 python app.py
 ```
 and the Gradio web app will be accessible at http://127.0.0.1:7860/.
+
+## Citation
+
+If you use the [PAYADOR](https://computationalcreativity.net/iccc24/papers/ICCC24_paper_152.pdf) approach in your research, please cite:
+
+```
+@inproceedings{gongora2024payador,
+  title={PAYADOR: A Minimalist Approach to Grounding Language Models on Structured Data for Interactive Storytelling and Role-playing Games},
+  author={G{\'o}ngora, Santiago and Chiruzzo, Luis and M{\'e}ndez, Gonzalo and Gerv{\'a}s, Pablo},
+  booktitle={Proceedings of The 15th International Conference on Computational Creativity},
+  year={2024}
+}
+```
+
+If you use the tests proposed in the “[Skill check: Some considerations on the evaluation of gamemastering models for role-playing games](https://link.springer.com/chapter/10.1007/978-3-031-49065-1_27)” paper, please cite:
+
+```
+@InProceedings{gongora2023skillcheck,
+author="G{\'o}ngora, Santiago
+and Chiruzzo, Luis
+and M{\'e}ndez, Gonzalo
+and Gerv{\'a}s, Pablo",
+title="Skill Check: Some Considerations on the Evaluation of Gamemastering Models for Role-Playing Games",
+booktitle="Games and Learning Alliance",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="277--288",
+isbn="978-3-031-49065-1"
+}
+```
